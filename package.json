@@ -1,0 +1,22 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myfirstbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsturgell/myfirstbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsturgell/myfirstbot/issues"
+  },
+  "homepage": "https://github.com/dsturgell/myfirstbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0"
+  }
+}
